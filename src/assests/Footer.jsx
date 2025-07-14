@@ -111,7 +111,7 @@ const Footer = () => {
             <span className="ml-3 text-xl text-white">HappyShop</span>
           </a>
           <p className="text-sm text-white sm:ml-6 sm:mt-0 mt-4">
-            © 2025 All Rights Reserved Prakash
+            © 2025 All Rights Reserved PrakashKandula
 
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
